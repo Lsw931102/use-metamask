@@ -1,6 +1,6 @@
 {
-	"name": "@hack/use-metamask",
-	"version": "1.0.0",
+	"name": "use-metamask-cool",
+	"version": "1.0.1",
 	"sourceVersion": "1.1.2",
 	"description": "Connect Metamask with React Hook",
 	"author": {
