@@ -1,5 +1,5 @@
 {
-	"name": "@funnyli/use-metamask",
+	"name": "@hack/use-metamask",
 	"version": "1.0.0",
 	"sourceVersion": "1.1.2",
 	"description": "Connect Metamask with React Hook",
